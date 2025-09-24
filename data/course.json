@@ -1,0 +1,47 @@
+{
+  "term": "Spring",
+  "year": "2007",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Econometrics"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ]
+  ],
+  "legacy_uid": "a0def3fc-0b39-645e-1f13-99cdffd50ddb",
+  "instructors": {
+    "content": [
+      "744a649a-985b-a66d-b723-6c56d07258b0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "d1c7acfe-c893-edd8-15a2-6f6cb05748e6",
+    "website": "14-32-econometrics-spring-2007"
+  },
+  "course_title": "Econometrics",
+  "course_description": "Introduction to econometric models and techniques, simultaneous equations, program evaluation, emphasizing regression. Advanced topics include instrumental variables, panel data methods, measurement error, and limited dependent variable models. May not count toward HASS requirement.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.32",
+  "course_image_thumbnail": {
+    "content": "498b77ba-10c1-9040-82af-a65c0df904eb",
+    "website": "14-32-econometrics-spring-2007"
+  },
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "site_uid": "d3efbbb1-fa70-4c33-a8a9-fd8bf048c3fb",
+  "site_short_id": "14.32-spring-2007",
+  "site_url_path": "courses/14-32-econometrics-spring-2007",
+  "title": "Course Metadata"
+}
