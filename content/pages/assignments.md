@@ -8,7 +8,7 @@ ocw_type: CourseSection
 title: Assignments
 uid: b2277487-1410-4823-6587-691fcba48ac5
 ---
-Note: You need {{% resource_link "9d7e79b9-b7c4-4033-bcbb-3cc3e9d2346e" "SAS/STAT<sup>®</sup> software" %}} to open the supporting data files.
+Note: You need [SAS/STAT<sup>®</sup> software](https://www.sas.com/en_us/software/stat.html) to open the supporting data files.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 PROBLEM SETS
